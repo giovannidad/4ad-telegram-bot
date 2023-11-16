@@ -1,0 +1,3 @@
+Mummy. Level 5 undead, 4 life points, 2 attacks, treasure +2. Any character killed by a mummy becomes another mummy and must be fought by the party. Mummies are attacked at +2 by the Fireball spell. Mummies never test morale.
+
+Reactions: always fight.

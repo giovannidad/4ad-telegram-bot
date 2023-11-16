@@ -1,0 +1,3 @@
+Chaos Lord. Level 6, 4 life, 3 attacks, 2 treasure rolls at +1. Before the fight begins, roll d6 to determine if the Chaos Lord has any special powers: 1–3 no powers, 4 evil eye (characters must roll 4+ or be at -1 on all defense rolls until the chaos lord is slain), 5 energy drain (any character taking a wound from the chaos lord must roll 4+ or lose 1 level), 6 hellfire blast (before combat, all character must roll 6+ or lose 2 life points; Clerics add 1⁄2 level to this roll). When you kill a chaos lord, roll a die; on a 5 or 6 a character of your choice finds a Clue (see p. 55)
+
+Reactions (d6): 1 flee if outnumbered, 2 fight, 3–6 fight to the death.

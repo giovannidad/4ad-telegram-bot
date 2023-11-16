@@ -1,0 +1,1 @@
+Rompicapo: la stanza contiene un rompicapo, il cui livello è d6. Puoi ignorarla o provare a risolvere il rompicapo. Per ogni tentativo fallito il pg che ha provato la soluzione del rompicapo perde 1 pf. Se il rompicapo è risolto la scatola si apre, tira sulla tabella "tesori"

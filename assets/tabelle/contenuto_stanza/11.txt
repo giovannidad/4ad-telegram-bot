@@ -1,0 +1,1 @@
+Tira sulla tabella dei mostri boss. Quindi tira 1d6 e aggiungi +1 per ogni mostro maggiore (aberrante o boss) che hai incontrato finora nel gioco: se il totale è 6 o più oppure hai generato l'ultima stanza del dungeon e non hai più spazio per altre stanze, questo è il boss finale 

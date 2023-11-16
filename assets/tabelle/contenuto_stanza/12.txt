@@ -1,0 +1,1 @@
+Se è un corridoio è vuoto (puoi perquisire a -1). Altrimenti la stanza è una <b>tana di un piccolo drago</b> Vedi la tabella mostri boss per le regole sul drago). Il piccolo drago conta come boss e potrebbe essere il boss finale

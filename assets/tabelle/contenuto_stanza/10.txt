@@ -1,0 +1,1 @@
+Se è un corridoio è vuoto (puoi perquisire a -1). Altrimenti puoi tirare sulla tabella dei <b>mostri aberranti</b>

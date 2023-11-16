@@ -1,0 +1,3 @@
+Medusa. Level 4, 4 life points, treasure +1. All characters at the beginning of the battle must save versus a level 4 gaze attack or be turned to stone. Petrified characters are out of the game until a Blessing spell is cast on them. Rogues add half their level to this save.
+
+Reactions (d6): 1 bribe (6d6 gp), 2 quest, 3–5 fight, 6 fight to the death.

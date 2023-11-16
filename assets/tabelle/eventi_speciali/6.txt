@@ -1,0 +1,2 @@
+Incontri  un alchimista errante. Venderà una pozione di guarigione (50 p.o. ciascuna) a ogni membro del gruppo, con l'eccezione dei barbari che non la possono comprare o una singola dose di veleno per lama (30 p.o.).
+Puoi incontrare l'alchimista solo 1 volta per partita. se lo incontri nuovamente considera il risultato come una trappola e tira sulla tabella trappole.

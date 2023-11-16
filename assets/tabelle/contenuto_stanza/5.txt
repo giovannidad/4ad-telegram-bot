@@ -1,0 +1,1 @@
+Vuota (puoi perquisire; se è un corridoio a -1), ma tira sulla tabella <b>Caratteristiche speciali</b>

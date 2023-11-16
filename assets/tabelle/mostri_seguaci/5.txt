@@ -1,0 +1,3 @@
+d3 trolls. Level 5, Treasure: normal. Trolls regenerate, unless killed by a spell, or unless a character uses one attack to chop an already killed troll to bits. If this does not happen, roll a die for every killed troll on its next turn. On a 5 or 6, the troll will come back to life and continue to fight.
+
+Reactions (d6): 1–2 fight, 3–6 fight to the death. If a dwarf is present in the party, trolls will automatically fight to the death.

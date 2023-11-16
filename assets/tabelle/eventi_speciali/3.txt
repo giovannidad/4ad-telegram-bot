@@ -1,0 +1,1 @@
+Appare una dama in bianco e chiede al gruppo di completare una missione. Se accetti tira sulla tabella missioni, se rifiuti lei scomparirà. Ignora eventuali altre apparizioni della dama in bianco.

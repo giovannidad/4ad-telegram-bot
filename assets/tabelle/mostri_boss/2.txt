@@ -1,0 +1,3 @@
+Orc Brute. Level 5, 5 life points, 2 attacks, treasure +1 but may not have any magic items, treat as 2d6 x d6 gold pieces instead.
+
+Reactions (d6): 1 bribe (50 gp), 2–5 fight, 6 fight to the death.

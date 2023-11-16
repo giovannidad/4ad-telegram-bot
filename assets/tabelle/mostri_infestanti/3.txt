@@ -1,0 +1,4 @@
+2d6 goblin swarmlings, level 3, treasure -1, morale -1
+
+Reactions (d6): 1 flee, 2-3 flee if outnumbered, 4 bribe (5 gp x goblin)
+5–6 fight.

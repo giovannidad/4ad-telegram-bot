@@ -1,0 +1,3 @@
+D6+1 orcs. Level 4. Orcs are afraid of magic and must test morale each time one or more is killed by a spell. If a spell caused their number to drop below 50%, they will test morale at -1. They never have magic items in their treasure: treat any rolled magic as d6 x d6 gold pieces instead.
+
+Reactions (d6): 1-2 bribe (10 gp per orc), 3–5 fight, 6 fight to the death.

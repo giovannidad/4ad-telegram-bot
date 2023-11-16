@@ -1,0 +1,3 @@
+d6+3 goblins. Level 3, treasure -1. Goblins have a 1 in 6 chance of gaining surprise, thus acting before the party. If they do act before the party, roll d6 on their reactions table below.
+
+Reactions (d6): 1 flee if outnumbered, 2-3 bribe (5 gp per goblin), 4–6 fight.

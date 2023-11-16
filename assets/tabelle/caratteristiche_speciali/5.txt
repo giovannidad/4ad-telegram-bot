@@ -1,0 +1,1 @@
+Statua: Se tocchi la statua tira 1d6, 1-3 la statua si anima e attacca il gruppo (boss lvl 4 con 6 pf e immune a tutti gli incantesimi, se la sconfiggi trovi 3d6x10 p.o.) con 4-6 la statua si rompe e trovi dentro 3d6x10 p.o.

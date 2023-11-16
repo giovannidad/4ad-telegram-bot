@@ -1,0 +1,1 @@
+Shield of Warning. One of the party’s shields is now enchanted and counts as protection even if the user is surprised by wandering monsters or if the party is fleeing from a combat. If the party has no shields, they will be given one. The shield of warning is permanent, and will last throughout a campaign. It can be sold for 200 gold pieces.
